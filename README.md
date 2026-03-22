@@ -8,9 +8,9 @@ There is no magic in the usual sense. There is mathematics, symbols and algorith
 
 **Grimoire** allows you to:
 
-***Encrypt text.** Turn a letter, note, or diary entry into a seemingly meaningless set of characters. No one but the intended recipient can read the message.
+**Encrypt text.** Turn a letter, note, or diary entry into a seemingly meaningless set of characters. No one but the intended recipient can read the message.
 
-***Decrypt text.** After receiving an encrypted message, enter the key, and the grimoire will reveal the secret, revealing the true words as if in invisible ink.
+**Decrypt text.** After receiving an encrypted message, enter the key, and the grimoire will reveal the secret, revealing the true words as if in invisible ink.
 
 **How it works:**
 
@@ -21,13 +21,13 @@ There is no magic in the usual sense. There is mathematics, symbols and algorith
 
 **Who needs this?**
 
-***Dreamers and writers** who want to keep an encrypted diary so that no one can invade their privacy.
+**Dreamers and writers** who want to keep an encrypted diary so that no one can invade their privacy.
 
-***Romantics** who want to exchange secret messages with their loved ones that only they can understand.
+**Romantics** who want to exchange secret messages with their loved ones that only they can understand.
 
-***Players and scriptwriters** who create quests where participants have to solve puzzles and find keys.
+**Players and scriptwriters** who create quests where participants have to solve puzzles and find keys.
 
-***Everyone who values privacy** and wants to add an element of play, mystery, and trust to their digital correspondence.
+**Everyone who values privacy** and wants to add an element of play, mystery, and trust to their digital correspondence.
 
 **Grimoire** is not just a utility. It's a ritual. You seal meaning into symbols, trusting in the ancient magic of encryption.
 
