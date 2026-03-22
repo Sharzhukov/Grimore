@@ -1,31 +1,36 @@
-**Grimoire: Тайны, запертые в словах**
+**Grimoire: Secrets Locked in Words**
 
-В мире, где информация стала главной валютой, умение хранить секреты — искусство, доступное избранным. **Grimoire** — это ваш личный цифровой гримуар, древняя книга заклинаний, перерожденная в элегантном и минималистичном инструменте для работы с текстом.
+In a world where information has become the primary currency, the ability to keep secrets is an art reserved for the select few. **Grimoire** is your personal digital grimoire, an ancient book of spells reborn in an elegant and minimalist text-processing tool.
 
-Здесь нет магии в привычном смысле. Есть математика, символы и алгоритмы, которые превращают ваши слова в непроницаемую тайну. И только тот, кто владеет ключом, сможет заглянуть за завесу.
+There is no magic in the usual sense. There is mathematics, symbols and algorithms that turn your words into an impenetrable mystery. And only those who hold the key will be able to look behind the veil.
 
-🔐 **Суть программы проста и глубока:**
+🔐 **The essence of the program is simple and profound:**
 
-**Grimoire** позволяет вам:
-*   **Зашифровать текст.** Превратите письмо, заметку или дневниковую запись в бессмысленный, на первый взгляд, набор символов. Никто, кроме адресата, не сможет прочесть послание.
-*   **Расшифровать текст.** Получив зашифрованное сообщение, введите ключ — и гримуар откроет тайну, проявив истинные слова, словно невидимыми чернилами.
+**Grimoire** allows you to:
 
-**Как это работает:**
+***Encrypt text.** Turn a letter, note, or diary entry into a seemingly meaningless set of characters. No one but the intended recipient can read the message.
 
-1.  **Напишите послание.** Введите текст, который хотите скрыть от чужих глаз.
-2.  **Выберите метод (или доверьтесь случаю).** Используйте классические шифры или полагайтесь на встроенные алгоритмы. Программа предлагает несколько уровней сложности — от простой перестановки символов до стойкого криптографического преобразования.
-3.  **Задайте ключ.** Это пароль, ваша личная печать. Без него расшифровка невозможна. Храните ключ в тайне или передайте его доверенному лицу отдельно от сообщения.
-4.  **Получите тайну.** На выходе вы получаете зашифрованную строку — совершенную загадку, которую можно безопасно отправить через любые мессенджеры или социальные сети.
+***Decrypt text.** After receiving an encrypted message, enter the key, and the grimoire will reveal the secret, revealing the true words as if in invisible ink.
 
-**Кому это нужно?**
+**How it works:**
 
-*   **Мечтателям и писателям,** которые хотят вести зашифрованный дневник, чтобы никто не нарушил их личное пространство.
-*   **Романтикам,** желающим обмениваться с возлюбленными секретными посланиями, понятными только им двоим.
-*   **Игрокам и сценаристам,** создающим квесты, где участникам предстоит разгадывать головоломки и находить ключи.
-*   **Всем, кто ценит приватность** и хочет добавить в цифровую переписку элемент игры, тайны и доверия.
+1. **Write a message.** Enter the text you want to hide from others.
+2. **Choose a method (or trust in chance).** Use classic ciphers or rely on built-in algorithms. The program offers several levels of complexity, from simple character permutation to robust cryptographic transformation.
+3. **Set the key.** This is a password, your personal seal. Without it, decryption is impossible. Keep the key a secret or share it with a trusted person separately from the message.
+4. **Get the secret.** At the output, you get an encrypted string — a perfect riddle that can be safely sent through any messengers or social networks.
 
-**Grimoire** — это не просто утилита. Это ритуал. Вы запечатываете смысл в символы, доверяя их древней, как мир, магии шифра.
+**Who needs this?**
 
-Создайте свой секрет. Или разгадайте чужой.
+***Dreamers and writers** who want to keep an encrypted diary so that no one can invade their privacy.
 
-**Grimoire. Хранитель слов.**
+***Romantics** who want to exchange secret messages with their loved ones that only they can understand.
+
+***Players and scriptwriters** who create quests where participants have to solve puzzles and find keys.
+
+***Everyone who values privacy** and wants to add an element of play, mystery, and trust to their digital correspondence.
+
+**Grimoire** is not just a utility. It's a ritual. You seal meaning into symbols, trusting in the ancient magic of encryption.
+
+Create your own secret. Or solve someone else's.
+
+**Grimoire. The keeper of words.**
